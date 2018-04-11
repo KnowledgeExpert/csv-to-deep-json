@@ -1,0 +1,12 @@
+{
+  "name": "csv-to-deep-json",
+  "version": "1.0.0",
+  "main": "built/index.js",
+  "typings": "built/index.d.ts",
+  "dependencies": {
+    "typescript": "2.5.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
