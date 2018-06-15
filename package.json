@@ -1,6 +1,8 @@
 {
   "name": "csv-to-deep-json",
-  "version": "1.0.0",
+  "description": "CSV to deep json libarary",
+  "homepage": "https://github.com/KnowledgeExpert/csv-to-deep-json",
+  "version": "0.1.0",
   "main": "built/index.js",
   "typings": "built/index.d.ts",
   "dependencies": {
@@ -8,5 +10,14 @@
   },
   "scripts": {
     "build": "tsc"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KnowledgeExpert/csv-to-deep-json.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "csv",
+    "json"
+  ]
 }
